@@ -1,0 +1,7 @@
+Security groups are attached to ENI's (Elastic Network interfaces)
+
+EC2 is Launched in a VPC's. EC2 cannot communicate if they r in different Vpc.
+
+T,M,A family belongs to Genral Purpose Instance. Instance type depends on cpu speed, 16 gig ram or other storage access.
+
+Note *****Tip: You need to contact the amazon support team as the data is huge to select the instance type to proceed.
